@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu bot de tickets, com um sistema simples de ranks para a staff, escrito em JavaScript. Você pode personalizar conforme necessário para o seu projeto específico.
-
 ---
 
 # Ticket Hub Bot - Sistema de Tickets com Rank de Staff
